@@ -1,1 +1,15 @@
-# Variables de entorno - NUNCA subir la API key real .env # Python __pycache__/ *.pyc .ipynb_checkpoints/ # Entornos virtuales venv/ env/ .venv/ # Sistema .DS_Store
+# Variables de entorno - NUNCA subir la API key real
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Sistema
+.DS_Store
